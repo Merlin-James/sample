@@ -1,0 +1,4 @@
+#My First Simple Script
+echo $(date)
+paste fileA fileB > fileE
+cat fileE
